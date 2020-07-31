@@ -1,5 +1,7 @@
 # docker-images-armv7
 
+THIS REPO IS NO LONGER UPDATED.
+
 ## Pull
 
     $ docker pull adann0/certbot:armv7
